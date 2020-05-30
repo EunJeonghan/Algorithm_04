@@ -50,15 +50,20 @@
 
 1. Model 3 : 7 layers with 4 convolution layers
 
+![3 1](https://user-images.githubusercontent.com/57309874/83331090-d6dd2000-a2ce-11ea-92eb-30a4dba7619d.png)
 
 2. Training with Training loss
 
+![3 2](https://user-images.githubusercontent.com/57309874/83331091-d775b680-a2ce-11ea-9992-125438a31441.png)
 
 3. Test Accuracy
 
-
+![3 3](https://user-images.githubusercontent.com/57309874/83331092-d80e4d00-a2ce-11ea-8fdd-4fc503410e5d.png)
 
 4. Images and corresponding probability that predicted Right
 
+![3 4](https://user-images.githubusercontent.com/57309874/83331093-d80e4d00-a2ce-11ea-8a8f-0966d3145090.png)
 
 5. Images and corresponding probability that predicted Wrong
+
+![3 5](https://user-images.githubusercontent.com/57309874/83331094-d8a6e380-a2ce-11ea-87ec-c8cfe8d44b92.png)
