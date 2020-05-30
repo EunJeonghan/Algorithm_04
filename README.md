@@ -18,6 +18,14 @@
 
 5. Images and corresponding probability that predicted Wrong
 
+![1 5](https://user-images.githubusercontent.com/57309874/83330703-fc1c5f00-a2cb-11ea-9e1e-7c661629711e.png)
+
+
+
+
+
+1. Model 2 : 5 layers with 2 convolution layers
+
 
 
 
