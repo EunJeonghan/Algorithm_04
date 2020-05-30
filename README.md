@@ -30,8 +30,10 @@
 
 2. Training with Training loss
 
+![2 2](https://user-images.githubusercontent.com/57309874/83330854-ef4c3b00-a2cc-11ea-8449-d53a4f64be7f.png)
 
 3. Test Accuracy
+
 
 
 4. Images and corresponding probability that predicted Right
