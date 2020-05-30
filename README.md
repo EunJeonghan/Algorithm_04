@@ -26,6 +26,23 @@
 
 1. Model 2 : 5 layers with 2 convolution layers
 
+![2 1](https://user-images.githubusercontent.com/57309874/83330756-61705000-a2cc-11ea-879f-e07585267eff.png)
+
+2. Training with Training loss
+
+
+3. Test Accuracy
+
+
+4. Images and corresponding probability that predicted Right
+
+
+
+5. Images and corresponding probability that predicted Wrong
+
+
+
+
 
 
 
