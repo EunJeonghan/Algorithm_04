@@ -10,6 +10,10 @@
 
 3. Test Accuracy
 
+![1 3](https://user-images.githubusercontent.com/57309874/83330541-91b6ef00-a2ca-11ea-8afd-4873ec0bf257.png)
+
+4. Images and corresponding probability that predicted Right
+
 
 
 
