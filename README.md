@@ -34,17 +34,31 @@
 
 3. Test Accuracy
 
+![2 3](https://user-images.githubusercontent.com/57309874/83330971-b6f92c80-a2cd-11ea-8b10-ff3d2d8f2f35.png)
+
+4. Images and corresponding probability that predicted Right
+
+![2 4](https://user-images.githubusercontent.com/57309874/83330972-b82a5980-a2cd-11ea-8cf8-18d804fbeeb5.png)
+
+5. Images and corresponding probability that predicted Wrong
+
+![2 5](https://user-images.githubusercontent.com/57309874/83330973-b95b8680-a2cd-11ea-92a6-28f87f429744.png)
+
+
+
+
+
+1. Model 3 : 7 layers with 4 convolution layers
+
+
+2. Training with Training loss
+
+
+3. Test Accuracy
+
 
 
 4. Images and corresponding probability that predicted Right
 
 
-
 5. Images and corresponding probability that predicted Wrong
-
-
-
-
-
-
-
